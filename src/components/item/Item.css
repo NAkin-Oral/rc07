@@ -6,6 +6,7 @@
   border-radius: 10px;
   text-align: center;
   position: relative;
+  opacity: 0.8;
 }
 .card:hover {
   cursor: pointer;

@@ -20,6 +20,17 @@
   left: 10rem;
 }
 
+.bars-title {
+  position: relative;
+  font-size: 3rem;
+  top: 20%;
+  letter-spacing: 2rem;
+  transform: rotate(90deg);
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
 .language-title {
   grid-area: top;
   text-align: center;
